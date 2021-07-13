@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="theme-color" content="#317EFB">
+  <meta name="theme-color" content="#ee6c4d">
   <link rel="shortcut icon" href="icons/icon-192x192.png" type="image/x-icon">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="styles/style.css">
@@ -17,6 +17,8 @@
     <div class="total">
       <div class="total">Your total is: $<span id="total">0</span></div>
     </div>
+
+    <canvas id="myChart"></canvas>
 
     <div class="form">
       <input type="text" id="t-name" placeholder="Name of transaction" />
@@ -38,11 +40,12 @@
       </table>
     </div>
     
-    <canvas id="myChart"></canvas>
+    
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   <script src="js/index.js"></script>
+  <script src="js/indexedDb.js"></script>
   <script type="text/javascript">
     (function () {
       if ("serviceWorker" in navigator) {
