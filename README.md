@@ -1,6 +1,6 @@
 # Budget Tracker
 
-Link to the deployed application can be tested here on Heroku: [Budget Tracker App](https://workout-tracker-lh.herokuapp.com/) and the project repository can be viewed here: [Budget Tracker Repo](https://github.com/leonhsu95/workout-tracker).
+Link to the deployed application can be tested here on Heroku: [Budget Tracker App](https://budget-tracker-lh.herokuapp.com/) and the project repository can be viewed here: [Budget Tracker Repo](https://budget-tracker-lh.herokuapp.com/).
 
 ## Description
 
