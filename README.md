@@ -82,9 +82,9 @@ SOFTWARE.
 
 ## Features
 
-- The application allows users to save fitness exercises into MongoDB and if connection fails, with IndexedDB.
-- Users can save two types of exercises with different keys and values: Resistance and Cardio training.
-- Each exercise can be marked as complete by the user which is also saved in the database.
+- The application allows users to track and save user's account debit and credits.
+- Users write the description and transaction amount which will update the budget graph automatically to display changes.
+
 
 
 ## Tests
