@@ -54,8 +54,8 @@ All other codes and functionalities are developed by Leon Hsu [leonhsu95](https:
 ## Usage
 
 The project should look like this:  
-![Application Screenshot](public/screenshots/screenshot.png)  
-![Application Screenshot 2](public/screenshots/screenshot2.png)  
+![Application Screenshot](public\screenshots\sceenshot.png)  
+![Application Screenshot 2](public\screenshots\sceenshot2.png)  
 
 ## License
 
